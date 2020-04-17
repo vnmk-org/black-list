@@ -2,32 +2,32 @@ const blackList = [
     {
         "name": "Trần Đăng Đức",
         "fbid": "100008997644780",
-        "phone": "0911077222",
-        "bank": ["Vietcombank 0441000701123"],
+        "phone": "091xx77222",
+        "bank": ["Vietcombank 04410xx701123"],
         "description": "Bán đồ không đúng miêu tả, không đúng giá niêm yết( giao dịch), có dấu hiệu lừa đảo nhiều vụ",
         "post": "https://www.facebook.com/groups/chobanphimcovietnam/permalink/238394189854411/",
     },
     {
         "name": "Tuấn Minh",
         "fbid": "100003197925172",
-        "phone": "01223221392",
-        "address": "65/2 Đường 6 Phường Bình Hưng Hòa A, Quận Bình Tân, HCM ( nhà cửa màu đen)",
+        "phone": "0122xx21392",
+        "address": "Đường 6 Phường Bình Hưng Hòa A, Quận Bình Tân, HCM ( nhà cửa màu đen)",
         "description": "Scam, cò quay",
         "post": "https://www.facebook.com/groups/chobanphimcovietnam/permalink/256032358090594/",
     },
     {
         "name": "Văn Hà",
         "fbid": "100000320895890",
-        "phone": "0938727876",
+        "phone": "0938xx7876",
         "description": "Scam",
         "post": "https://www.facebook.com/groups/chobanphimcovietnam/permalink/258181924542304/",
     },
     {
         "name": "Stan Nguyễn (Nguyễn Quốc Tân)",
         "fbid": "100000134809296",
-        "phone": "0934016907",
-        "bank": ["Vietcombank 0371000472398"],
-        "address": "21/1/16 Nguyễn Thiện Thuật, P2, Q3, Tp.HCM",
+        "phone": "0934xx6907",
+        "bank": ["Vietcombank 0371xx0472398"],
+        "address": "Nguyễn Thiện Thuật, P2, Q3, Tp.HCM",
         "description": "Cò quay, có dấu hiệu lừa đảo",
         "post": "https://www.facebook.com/groups/vnmkmarket/permalink/482092418853176/?sale_post_id=482092418853176",
         "tags": ["keycap", "Hotkey Project"]
@@ -35,7 +35,7 @@ const blackList = [
     {
         "name": "Đào Huy Toàn (Nguyễn Cường)",
         "fbid": "100009949444077",
-        "phone": "0978621816",
+        "phone": "0978xx1816",
         "address": "Chợ gốm Bát Tràng, xã Bát Tràng, Hà Nội",
         "description": "Bán hàng không đúng chất lượng cam kết, không giữ giao kèo trước khi bán hàng, trốn tránh",
         "post": "https://www.facebook.com/groups/vnmkmarket/permalink/501902450205506/?sale_post_id=501902450205506",
@@ -43,7 +43,7 @@ const blackList = [
     {
         "name": "Tô Thái Duy (Duy Duyy)",
         "fbid": "100005679371491",
-        "phone": "0935604864",
+        "phone": "093xx04864",
         "address": "Đà Nẵng",
         "description": "Bán hàng thiếu nút, cò quay trốn tránh",
         "post": "https://www.facebook.com/groups/vnmkmarket/permalink/507634356298982/",
@@ -75,9 +75,9 @@ const blackList = [
     {
         "name": "Hoàng Hiệu",
         "fbid": "100027237950263",
-        "phone": "0365331420",
-        "bank": ["Techcombank 19034563727015"],
-        "address": "26/71 ngõ 120 Vĩnh Tuy, HN",
+        "phone": "036xx31420",
+        "bank": ["Techcombank 190345xx727015"],
+        "address": "ngõ 120 Vĩnh Tuy, HN",
         "description": "Bán hàng sai mô tả, bọc hàng không cẩn thận, Bàn keycap thiêu nút trốn tránh trách nhiệm",
         "posts": [
             "https://www.facebook.com/groups/vnmkmarket/permalink/1026984984363914/",
@@ -102,8 +102,8 @@ const blackList = [
     {
         "name": "Huỳnh Tâm (Team DGX)",
         "fbid": "692786229",
-        "phone": "0989925822",
-        "address": "12/9 Lữ Gia ,Thành phố Hồ Chí Minh",
+        "phone": "0989xx5822",
+        "address": "Lữ Gia ,Thành phố Hồ Chí Minh",
         "description": "Xử lý đơn hàng chậm trễ, làm việc thiếu chuyên nghiệp, có dấu hiệu lừa đảo",
         "posts": [
             "https://www.facebook.com/groups/vnmkmarket/permalink/1026905094371903/",
@@ -116,8 +116,8 @@ const blackList = [
     {
         "name": "Quản Tuấn Anh (Team MAB - Make a board)",
         "fbid": "100000631940518",
-        "phone": "0974316416",
-        "address": "130d Thụy Khuê, Tây Hồ, Hà Nội",
+        "phone": "0974xx6416",
+        "address": "Thụy Khuê, Tây Hồ, Hà Nội",
         "description": "Lừa đảo",
         "post": "https://www.facebook.com/groups/VietNamMechKey/permalink/918332245165539/",
         "tags": ["mab", "make a board", "râu", "Thịnh Đinh", "anh tuan quan"]
@@ -125,7 +125,7 @@ const blackList = [
     {
         "name": "Phạm Đăng Khôi",
         "fbid": "100017087058366",
-        "phone": "0886547577",
+        "phone": "088xx47577",
         "description": "lừa đảo",
         "post": "https://www.facebook.com/groups/vnmkmarket/permalink/1028257647569981/",
     }
